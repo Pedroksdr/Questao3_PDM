@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tem de Tudo - Cadastro</string>
+    <string name="bem_vindo_tem_de_tudo">Bem-vindo ao Tem de Tudo!</string>
+    <string name="iniciar_cadastro">Iniciar Cadastro</string>
+    <string name="cadastro_de_cliente">Cadastro de Cliente</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="enviar_cadastro">Enviar</string>
+    <string name="agradecimento_cadastro">Obrigado por se cadastrar em nossa loja. Aproveite as melhores ofertas em www.temdetudo.com.br</string>
+    <string name="voltar_inicio">Voltar ao Início</string>
+    <string name="desc_logo">Logomarca da loja Tem de Tudo</string>
+    <string name="desc_cadastro">Ícone de cadastro</string>
+    <string name="desc_cadastro_completo">Cadastro completo com sucesso</string>
+</resources>
